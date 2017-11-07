@@ -1,0 +1,17 @@
+[gd_scene format=2]
+
+[node name="TestCube" type="TestCube"]
+
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.8759, 0.0801039 )
+layers = 1
+material_override = null
+cast_shadow = 1
+extra_cull_margin = 0.0
+visible_in_all_rooms = false
+use_in_baked_light = false
+lod_min_distance = 0.0
+lod_min_hysteresis = 0.0
+lod_max_distance = 0.0
+lod_max_hysteresis = 0.0
+
+
